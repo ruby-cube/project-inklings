@@ -4,7 +4,7 @@
 </picture>
 </div>
 
-⚠️ **Under Active Development**: Inklings is still at a very early stage of development, but will eventually be released as open source. Early prototypes have so far been extremely promising :)
+⚠️ **Under Active Development**: Inklings is still at a very early stage of development but will eventually be released as open source. Early prototypes have so far been extremely promising :)
 
 <br/>
 
