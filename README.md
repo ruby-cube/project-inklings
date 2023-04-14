@@ -1,6 +1,8 @@
-<picture align="center">
+<div align="center">
+<picture>
   <img width="440" src="https://github.com/ruby-cube/project-inklings/blob/main/inklings-logo.png" alt="inklings logo"/>
 </picture>
+</div>
 
 ⚠️ **Under Active Development**: Inklings is still at a very early stage of development, but will eventually be released as open source. Early prototypes have so far been extremely promising :)
 
