@@ -1,6 +1,6 @@
 <div align="center">
 <picture>
-  <img width="440" src="https://github.com/ruby-cube/project-inklings/blob/main/inklings-logo.png" alt="inklings logo"/>
+  <img width="520" src="https://github.com/ruby-cube/project-inklings/blob/main/inklings-logo.png" alt="inklings logo"/>
 </picture>
 </div>
 
