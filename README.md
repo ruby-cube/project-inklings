@@ -8,7 +8,7 @@ A local-first rich text/content block editor with an intuitive UI design for cap
 
 <br/>
 
-⚠️ **Under Active Development**: Inklings is still at an early stage of development but will eventually be released as open source. Early prototypes have so far been extremely promising :)
+⚠️ **Under Active Development**: Inklings is still at an early stage of development and currently lives in a private repository. It will eventually be released as open source. Early prototypes have so far been extremely promising :)
 
 <br/>
 <br/>
