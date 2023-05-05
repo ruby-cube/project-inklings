@@ -85,8 +85,6 @@ The typical user flow of formatting text is to select text, then choose the desi
 
 It doesn’t have to be this way. For text coloring and highlighting, a more intuitive flow would be to grab a highlighter, choose a color, and highlight. You can highlight multiple things without having to re-select the highlighter tool each time. With the text-formatting user flow, you have to go through the toolbar and menu for every single highlight, resulting in more clicks to achieve the task.
 
-**Highlighter tool demo from Inklings prototype**
-
 https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
 When you’re done with the tool, setting down the tool should take nothing more than clicking any non-highlightable area (with the cursor visually indicating escape areas). This tool-escape strategy differs from most drawing applications, where in order to escape a tool, you need to find the default tool in the toolbar, move your mouse over to that tiny button, and click. That takes too much brain energy and coordination. In real life, you would simply set a highlighter down to the side with little thought. Escaping a tool in an app should be just as mindless.
@@ -101,11 +99,9 @@ The highlighter user flow mentioned above is an example of a user flow that mimi
 - I mark the items I want to focus on for the current block of time with an erasable highlighter
 - Once the task is complete, I cross off the item and erase the highlighter mark
 
-![images]()
-
 This differs from Notion which visually emphasizes completed items with a bright blue mark. I can understand how some people may like this, as it serves as a visual reward for completing a task. However, I personally prefer completed items to visually recede and to reserve visual emphases for the to-do items I plan to focus on.
 
-**Strikethrough demo**
+In this implementation of strikethrough, the user initiates strikethrough with a horizontal stroke, mimicking real life, but more efficient.
 
 https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
