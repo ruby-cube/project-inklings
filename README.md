@@ -28,8 +28,6 @@ In recent years, there has been an explosion of apps following in Notion and Wor
 
 So I’ve set out to build my ideal content block editor—one that feels as simple to use as sitting down with a journal. A place to lay out your thoughts and plan out your month, a place to list your to-dos, dump all your ideas and organize them, a place to draft a document. Local-first and syncable across devices.
 
-It’s a huge challenge. Building a rich text/block editor with an intuitive interface is no easy feat. Add synchronization / collaboration into the mix and the problem becomes exponentially more difficult. But I have a clear vision of the tool and want it to exist so badly. Here is where I make it happen.
-
 <p align="right"><a href="#">[top]</a></p>
 
 ## UI/UX Notes
@@ -38,11 +36,11 @@ Below are some thoughts on how user experience can be improved based on issues I
 
 **Jump to:**
 
-- provide more ui hints
-- reduce distracting pop-ups
-- favor tools that can be “picked up, used, and set down” over large menus
-- offer a pen-and-paper experience
-- implement collaboration through Git-like synchronization
+- [provide more ui hints](#provide-more-ui-hints)
+- [reduce distracting pop-ups](#reduce-distracting-pop-ups)
+- [favor tools that can be “picked up, used, and set down” over large menus](#favor-tools-that-can-be-picked-up-used-and-set-down-over-large-menus)
+- [offer a pen-and-paper experience](#offer-a-pen-and-paper-experience)
+- [implement collaboration through Git-like synchronization](#implement-collaboration-through-git-like-synchronization)
 
 <p align="right"><a href="#">[top]</a></p>
 
