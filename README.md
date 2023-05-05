@@ -56,10 +56,6 @@ For example, sometimes I drag a heading thinking the section text will move alon
 
 We can reduce these sorts of experiences with subtle spotlighting of the items that will be moved so users know beforehand if they will be moving a single item or a family of items.
 
-<p align="right"><a href="#">[toc]</a></p>
-
-**Subtle Spotlighting Demo from Inklings prototype**
-
 https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
 A spotlight is also visually helpful when moving items via keyboard (inspired by VSCode):
@@ -70,9 +66,6 @@ Another example of a “UI surprise” encountered in Notion is the unintentiona
 
 We can address this by offering UI hints for column borders when the mouse hovers over the document.
 
-**Column Borders from Inklings prototype**
-
-![Columns](https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov)
 
 <p align="right"><a href="#uiux-notes">[toc]</a></p>
 
@@ -82,15 +75,7 @@ While I understand the UI design choice of having toolbars and menus pop up wher
 
 One example of an overly-offered menu in Notion is the slash command menu. Most of the time, I just want to type a forward slash as part of my text. Instead, a huge menu offering pops up to obstruct the rest of my text. 
 
-We can address this by designating a partner-less closing bracket as the trigger key instead of the forward slash. This more-or-less eliminates unintended menu pop-ups, offering the command menu when the user actually intends to use it.
-
-**Bracket commands**
-
-![image]()
-
-When the closing bracket key is pressed, an algorithm searches preceding text for the opening bracket it’s meant to close. If none is found, it displays the command menu.
-
-![image]()
+We can address this by designating a partner-less closing bracket as the trigger key instead of the forward slash. This more-or-less eliminates unintended menu pop-ups, offering the command menu when the user actually intends to use it. When the closing bracket key is pressed, an algorithm searches preceding text for the opening bracket it’s meant to close. If none is found, it displays the command menu.
 
 <p align="right"><a href="#uiux-notes">[toc]</a></p>
 
@@ -102,7 +87,7 @@ It doesn’t have to be this way. For text coloring and highlighting, a more int
 
 **Highlighter tool demo from Inklings prototype**
 
-![Highlighter](https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov)
+https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
 When you’re done with the tool, setting down the tool should take nothing more than clicking any non-highlightable area (with the cursor visually indicating escape areas). This tool-escape strategy differs from most drawing applications, where in order to escape a tool, you need to find the default tool in the toolbar, move your mouse over to that tiny button, and click. That takes too much brain energy and coordination. In real life, you would simply set a highlighter down to the side with little thought. Escaping a tool in an app should be just as mindless.
 
@@ -122,7 +107,7 @@ This differs from Notion which visually emphasizes completed items with a bright
 
 **Strikethrough demo**
 
-![Strikethrough](https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov)
+https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
 Mimicking the pen-and-paper experience through these small details transform the standard rich-text editing experience into something a bit more intuitive and perhaps even delightful.
 
@@ -150,18 +135,15 @@ Screen reader and keyboard navigation accessibility is also a concern that I hop
 
 ## Prior Art
 
-- [Workflowy]()
-- [Notion]()
-- [Craft]()
-- [Walling]()
-- [Microsoft Loop]()
-- [Dynalist]()
-- [Affine]()
-- [AppFlowy]()
-- [Apple Notes]()
-- [Obsidian]()
-- [Muse]()
-- [VSCode]()
+- [Workflowy](https://www.workflowy.com/)
+- [Notion](https://www.notion.so/)
+- [Craft](https://www.craft.do/)
+- [Walling](https://walling.app/)
+- [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)
+- [Dynalist](https://dynalist.io/)
+- [Affine](https://affine.pro/)
+- [AppFlowy](https://appflowy.io/)
+- [Obsidian](https://obsidian.md)
 
 <br/>
 <br/>
