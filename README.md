@@ -4,7 +4,7 @@
 </picture>
 </div>
 
-A local-first rich text/content block editor with an intuitive UI design for capturing and organizing thoughts. Features a clean, minimal graphical interface and innovative UI elements that enable users to edit with ease. Built with Typescript, [Vue](www.vuejs.org), and [Rue.js](https://github.com/ruby-cube/rue).
+A local-first rich text/content block editor with an intuitive UI design for capturing and organizing thoughts. Features a clean, minimal graphical interface and innovative UI elements that enable users to edit with ease. Built with Typescript, [Vue.js](www.vuejs.org), and [Rue.js](https://github.com/ruby-cube/rue).
 
 <br/>
 
