@@ -60,15 +60,11 @@ We can reduce these sorts of experiences with subtle spotlighting of the items t
 
 **Subtle Spotlighting Demo from Inklings prototype**
 
-<div align="center">
-<picture>
-  <img width="720" src="https://github.com/ruby-cube/project-inklings/assets/blob/cave/inklings-demo_move-family.gif" alt="inklings spotlight"/>
-</picture>
-</div>
+https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
 A spotlight is also visually helpful when moving items via keyboard (inspired by VSCode):
 
-![KeyboardMove](https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov)
+https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
 
 Another example of a “UI surprise” encountered in Notion is the unintentional existence of columns. I have more than once discovered hidden columns in my document that I didn’t mean to create, because I misplaced an item I was dragging. Even for intentional columns, finding the boundaries of a column feels like guesswork. There is little indication where precisely a column exists.
 
