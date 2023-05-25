@@ -26,7 +26,7 @@ However, as much as I love Notion and Workflowy and can’t help but sing their 
 
 In recent years, there has been an explosion of apps following in Notion and Workflowy’s footsteps (see [Prior Art](#prior-art)). I have tried many of them and although they each add their own unique take on content block editing, none of them deliver the simple, easy experience I’m looking for in a thought-organization/thinking tool.
 
-So I’ve set out to build my ideal content block editor—one that feels as simple to use as sitting down with a journal. A place to lay out your thoughts and plan out your month, a place to list your to-dos, dump all your ideas and organize them, a place to draft a document. Local-first and syncable across devices.
+So I’ve set out to build my ideal content block editor—one that feels as simple to use as sitting down with a journal. A place to lay out your thoughts and plan out your month. A place to list your to-dos, dump all your ideas and organize them. A place to draft a document. Local-first and syncable across devices.
 
 <p align="right"><a href="#">[top]</a></p>
 
