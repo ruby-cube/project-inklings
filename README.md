@@ -138,6 +138,7 @@ Screen reader and keyboard navigation accessibility is also a concern that I hop
 - [Affine](https://affine.pro/)
 - [AppFlowy](https://appflowy.io/)
 - [Obsidian](https://obsidian.md)
+- [Dropbox Paper](https://www.dropbox.com/paper/start)
 
 <br/>
 <br/>
