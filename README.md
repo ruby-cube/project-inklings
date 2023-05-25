@@ -125,7 +125,7 @@ The aesthetics of this project focuses on creating a clean, minimal user interfa
 
 Screen reader and keyboard navigation accessibility is also a concern that I hope to address.
 
-<p align="right"><a href="#">[top]</a></p>
+<p align="right"><a href="#uiux-notes">[toc]</a></p>
 
 ## Prior Art
 
@@ -140,7 +140,6 @@ Screen reader and keyboard navigation accessibility is also a concern that I hop
 - [Obsidian](https://obsidian.md)
 - [Dropbox Paper](https://www.dropbox.com/paper/start)
 
-<br/>
-<br/>
+<p align="right"><a href="#">[top]</a></p>
 
 © 2023 - present [Ruby Y Wang](https://github.com/ruby-cube)
