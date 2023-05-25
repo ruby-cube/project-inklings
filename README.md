@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-
 
 A spotlight is also visually helpful when moving items via keyboard (inspired by VSCode):
 
-https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
+https://github.com/ruby-cube/project-inklings/assets/68570184/d38350da-f5f7-47de-b554-4ea21f10d98e
 
 Another example of a “UI surprise” encountered in Notion is the unintentional existence of columns. I have more than once discovered hidden columns in my document that I didn’t mean to create, because I misplaced an item I was dragging. Even for intentional columns, finding the boundaries of a column feels like guesswork. There is little indication where precisely a column exists.
 
@@ -83,7 +83,7 @@ The typical user flow of formatting text is to select text, then choose the desi
 
 It doesn’t have to be this way. For text coloring and highlighting, a more intuitive flow would be to grab a highlighter, choose a color, and highlight. You can highlight multiple things without having to re-select the highlighter tool each time. With the text-formatting user flow, you have to go through the toolbar and menu for every single highlight, resulting in more clicks to achieve the task.
 
-https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
+https://github.com/ruby-cube/project-inklings/assets/68570184/d9917af9-5bbf-4c0b-ad45-f0ab865fb8f3
 
 When you’re done with the tool, setting down the tool should take nothing more than clicking any non-highlightable area (with the cursor visually indicating escape areas). This tool-escape strategy differs from most drawing applications, where in order to escape a tool, you need to find the default tool in the toolbar, move your mouse over to that tiny button, and click. That takes too much brain energy and coordination. In real life, you would simply set a highlighter down to the side with little thought. Escaping a tool in an app should be just as mindless.
 
@@ -101,7 +101,7 @@ This differs from Notion which visually emphasizes completed items with a bright
 
 In this implementation of strikethrough, the user initiates strikethrough with a horizontal stroke, mimicking real life, but more efficient.
 
-https://user-images.githubusercontent.com/68570184/236367086-e47029cb-03a1-4bfd-9c5b-29cdfadd7a7f.mov
+https://github.com/ruby-cube/project-inklings/assets/68570184/c5c4e08e-2912-4b07-ae49-e2a3622bbac9
 
 Mimicking the pen-and-paper experience through these small details transform the standard rich-text editing experience into something a bit more intuitive and perhaps even delightful.
 
