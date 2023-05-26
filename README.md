@@ -132,6 +132,7 @@ Screen reader and keyboard navigation accessibility is also a concern that I hop
 - [Workflowy](https://www.workflowy.com/)
 - [Notion](https://www.notion.so/)
 - [Craft](https://www.craft.do/)
+- [Coda](https://coda.io)
 - [Walling](https://walling.app/)
 - [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)
 - [Dynalist](https://dynalist.io/)
